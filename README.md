@@ -1,5 +1,7 @@
 Language: Ruby
 
+active site - https://alpha-blog-7.herokuapp.com/
+
 # Alpha_blog
 
 Ruby on Rails Blog Project
