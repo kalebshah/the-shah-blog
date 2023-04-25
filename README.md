@@ -1,6 +1,6 @@
 Language: Ruby
 
-active site - https://alpha-blog-7.herokuapp.com/
+active site - https://the-shah-blog.herokuapp.com
 
 # Alpha_blog
 
